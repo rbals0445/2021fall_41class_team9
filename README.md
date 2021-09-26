@@ -14,7 +14,7 @@
 
 |     Development Plan      | Due Date  | Check |
 | :-----------------------: | :-------: | :---: |
-|         Proposal          | `Week 4`  |      |
+|         Proposal          | `Week 4`  |   O   |
 | Requirement Specification | `Week 8`  |   X   |
 |   Design specification    | `Week 11` |   X   |
 |      Implementation       | `Week 14` |   X   |
