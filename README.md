@@ -12,9 +12,9 @@
 
 ### Project Plan (tentative)
 
-|     Development Plan      | Due Date  | Check |
-| :-----------------------: | :-------: | :---: |
-|         Proposal          | `Week 4`  |   O   |
-| Requirement Specification | `Week 8`  |   X   |
-|   Design specification    | `Week 11` |   X   |
-|      Implementation       | `Week 14` |   X   |
+|                                              Development Plan                                              | Due Date  | Check |
+| :--------------------------------------------------------------------------------------------------------: | :-------: | :---: |
+|       [Proposal](https://github.com/skkuse/2021fall_41class_team9/blob/main/docs/Proposal_TEAM9.pdf)       | `Week 4`  |   O   |
+| [Requirement Specification](https://github.com/skkuse/2021fall_41class_team9/blob/main/docs/SRS_TEAM9.pdf) | `Week 8`  |   O   |
+|                                            Design specification                                            | `Week 11` |   X   |
+|                                               Implementation                                               | `Week 14` |   X   |
